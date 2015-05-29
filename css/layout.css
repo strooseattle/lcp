@@ -1,4 +1,8 @@
 .flex-row {
+  display: -webkit-box;      /* OLD - iOS 6-, Safari 3.1-6 */
+  display: -moz-box;         /* OLD - Firefox 19- (buggy but mostly works) */
+  display: -ms-flexbox;      /* TWEENER - IE 10 */
+  display: -webkit-flex;
   display:flex;
   flex-direction: row;
   flex-wrap: wrap;
@@ -8,6 +12,10 @@
 }
 
 .flex-row-cent {
+  display: -webkit-box;      /* OLD - iOS 6-, Safari 3.1-6 */
+  display: -moz-box;         /* OLD - Firefox 19- (buggy but mostly works) */
+  display: -ms-flexbox;      /* TWEENER - IE 10 */
+  display: -webkit-flex;
   display:flex;
   flex-direction: row;
   flex-wrap: wrap;
@@ -32,4 +40,26 @@
     flex-basis: 200px;
     margin-right: 50px;
     margin-left: 25px;
+}
+
+.flex-row-space {
+  display: -webkit-box;      /* OLD - iOS 6-, Safari 3.1-6 */
+  display: -moz-box;         /* OLD - Firefox 19- (buggy but mostly works) */
+  display: -ms-flexbox;      /* TWEENER - IE 10 */
+  display: -webkit-flex;
+  display:flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-content: center;
+  align-items: center;
+}
+
+.plan-logo {
+  margin-left: 15px;
+  margin-top: 10px;
+}
+
+.challenge-intro {
+  margin-bottom: 50px;
 }
