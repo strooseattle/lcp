@@ -1,0 +1,80 @@
+/* HEADER */
+
+.hero-header {
+  background-image: url(backgrounds/snow-trees.jpg);
+  background-size: 100%;
+}
+
+.main-nav {
+  list-style-type: none;
+  margin-right: 15px;
+}
+
+.plan-logo {
+  margin-left: 15px;
+  margin-top: 10px;
+}
+
+.main-nav li {
+  display: inline-block;
+  margin-top: 5px
+}
+
+.main-nav a {
+  text-decoration: none;
+  color: white;
+  font-size: 18px;
+  margin-left: 15px;
+  margin-right: 15px;
+}
+
+.lcp-logo {
+  margin-top: 30px;
+}
+
+.hero-header h1 {
+  color: white;
+  font-size: 42px;
+  line-height: 38px;
+  margin-left: 15px;
+  margin-bottom: 0px;
+}
+
+.hero-header p {
+  color: #28a39c;
+  font-size: 20px;
+  margin-left: 255px;
+  padding-top: 15px;
+}
+
+.waba-logo {
+  height: 15%;
+  width: 15%;
+  text-align: center;
+  margin-left: 400px;
+}
+
+.hero-header h2 {
+  color: white;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  background-color: #28a39c;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+/* CHALLENGE */
+
+.green {
+  color: #28a39c;
+}
+
+.challenge-statement h2 {
+  font-size: 16px;
+  color: gray;
+}
+
+.plan-goal {
+  background-color: lightBlue;
+  color: white;
+}
