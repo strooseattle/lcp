@@ -28,10 +28,6 @@
   text-align: center;
 }
 
-.pull-left {
-  margin-left: -50px;
-}
-
 .challenge-statement {
     width: 300px;
     height: 250px;
@@ -40,6 +36,16 @@
     flex-basis: 200px;
     margin-right: 50px;
     margin-left: 25px;
+}
+
+.lightbulb-pic {
+    width: 300px;
+    height: 250px;
+/*    flex-grow: 1;
+    flex-shrink: 0;
+    flex-basis: 200px;
+    margin-right: 50px;
+    margin-left: 25px;*/
 }
 
 .flex-row-space {
