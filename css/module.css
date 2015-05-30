@@ -2,7 +2,7 @@
 
 .hero-header {
   background-image: url(backgrounds/snow-trees.jpg);
-  background-size: 100%;
+  background-size: cover;
 }
 
 .main-nav {
@@ -94,6 +94,9 @@
 
 /* STRATEGY */
 
-.background-color: {
+.strategy {
+  background-image: url(backgrounds/needles.jpg);
+  background-size: 100%;
+  color: white;
 
 }
