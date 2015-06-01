@@ -92,8 +92,25 @@
 
 /* STRATEGY */
 
-.strategy {
-  background-image: url(backgrounds/needles.jpg);
-  background-size: 100%;
+.strategy-banner {
+  color: #28a39c;
+  text-align: center;
+}
+
+  color: #28a39c;
+
+.leg-goal a {
+  text-decoration: none;
   color: white;
+}
+
+.parallax-window {
+    min-height: 400px;
+    background: transparent;
+}
+
+.strategy-banner h2 {
+  color: black;
+  margin-left: 50px;
+  margin-right: 50px;
 }
