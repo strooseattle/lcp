@@ -97,8 +97,6 @@
   text-align: center;
 }
 
-  color: #28a39c;
-
 .leg-goal a {
   text-decoration: none;
   color: white;
@@ -123,8 +121,6 @@
   color: gray;
 }
 
-.absolute-center {
-  margin: auto;
-  position: absolute;
-  top: 0; left: 0; bottom: 0; right: 0;
+.strategy h1 {
+  color: black;
 }
