@@ -109,8 +109,22 @@
     background: transparent;
 }
 
+.strategy-banner {
+  margin-top: 50px;
+}
+
 .strategy-banner h2 {
   color: black;
   margin-left: 50px;
   margin-right: 50px;
+}
+
+.strategy-banner h3 {
+  color: gray;
+}
+
+.absolute-center {
+  margin: auto;
+  position: absolute;
+  top: 0; left: 0; bottom: 0; right: 0;
 }
