@@ -11,3 +11,26 @@
   text-decoration: none;
 }
 
+.tile-1:hover {
+  background-color: #72C595;
+}
+
+.tile-2:hover {
+  background-color: #9e2a2b;
+}
+
+.tile-3:hover {
+  background-color: #FF998b;
+}
+
+.tile-4:hover {
+  background-color: #5d285f;
+}
+
+.tile-5:hover {
+  background-color: #0067a0;
+}
+
+.tile-6:hover {
+  background-color: #c05131;
+}
