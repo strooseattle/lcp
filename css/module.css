@@ -131,11 +131,14 @@
 .three-pillars {
   color: black;
   padding: 25px;
-  width: 350px;
+  width: 300px;
   text-align: center;
   margin: auto;
-  font-size: 18px;
+  font-size: 32px;
+  margin-top: 25px;
+  margin-bottom: 25px;
 }
+
 
 .strategy h1 {
   color: black;
@@ -153,3 +156,5 @@
   font-size: 36px;
   color: black;
 }
+
+

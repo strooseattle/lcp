@@ -108,3 +108,17 @@
   margin-bottom: 50px;
 }
 
+.tile-container {
+  display:flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-content: flex-start;
+  align-items: center;
+}
+
+.tile-1 {
+  width: 300px;
+  height: 250px;
+}
+
