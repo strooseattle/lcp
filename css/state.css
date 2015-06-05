@@ -12,25 +12,26 @@
 }
 
 .tile-1:hover {
-  background-color: #72C595;
+  background-image: url(backgrounds/green-tile.jpg);
 }
 
 .tile-2:hover {
-  background-color: #9e2a2b;
+  background-image: url(backgrounds/red-tile.jpg);
 }
 
 .tile-3:hover {
-  background-color: #FF998b;
+  background-image: url(backgrounds/teal-tile.jpg);
 }
 
 .tile-4:hover {
-  background-color: #5d285f;
+  background-image: url(backgrounds/purple-tile.jpg);
 }
 
 .tile-5:hover {
-  background-color: #0067a0;
+  background-image: url(backgrounds/blue-tile.jpg);
 }
 
 .tile-6:hover {
-  background-color: #c05131;
+  background-image: url(backgrounds/orange-tile.jpg);
 }
+
