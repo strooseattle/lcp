@@ -117,3 +117,10 @@
   align-items: center;
 }
 
+.support {
+  margin-top: 100px;
+}
+
+.support h2 {
+  padding-top: 350px;
+}

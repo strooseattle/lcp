@@ -207,4 +207,11 @@
   background-color: #b56836;
 }
 
+/* SUPPORT */
+
+.support {
+  background-image: url(backgrounds/batteries.jpg);
+  text-align: center;
+  background-repeat: repeat-x;
+}
 
