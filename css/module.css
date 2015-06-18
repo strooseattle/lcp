@@ -184,18 +184,18 @@
 }
 
 .tile {
-  width: 250px;
-  height: 200px;
+  width: 210px;
+  height: 150px;
   margin: 10px;
   position: relative;
-  min-height: 200px;
+  min-height: 150px;
 
 }
 
 .tile h3 {
   text-align: left;
   color: white;
-  font-size: 26px;
+  font-size: 22px;
   position: absolute;
   bottom: 0;
   left: 0;
