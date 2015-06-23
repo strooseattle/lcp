@@ -35,3 +35,10 @@
   background-color: #D79F79;
 }
 
+.button-like:hover {
+  color: white;
+  border: solid #05998b 5px;
+  background-color: #05998b;
+}
+
+
