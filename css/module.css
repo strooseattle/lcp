@@ -41,15 +41,19 @@
 }
 
 .hero-header p {
-  color: #28a39c;
+  color: black;
+  font-family: 'Futura';
   font-size: 20px;
-  margin-left: 255px;
-  padding-top: 15px;
+  text-align: center;
+  margin-top: 50px;
 }
 
 .waba-logo {
   height: 25%;
   width: 25%;
+  margin: auto;
+  margin-left: 55%;
+  margin-top: 30px;
 }
 
 .hero-header h2 {
@@ -249,6 +253,7 @@
   text-decoration: none;
   color: #05998b;
   border: solid #05998b 5px;
+  padding: 35px;
 }
 
 
