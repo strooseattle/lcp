@@ -44,12 +44,11 @@
   color: black;
   font-family: 'Futura';
   font-size: 20px;
-  text-align: center;
+  margin-left: 50%;
   margin-top: 50px;
 }
 
 .waba-logo {
-  height: 25%;
   width: 25%;
   margin: auto;
   margin-left: 55%;
