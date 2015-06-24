@@ -82,7 +82,7 @@
 
 .challenge-statement {
     width: 300px;
-    height: 350px;
+    height: 360px;
     -webkit-box-flex: 1;
     -webkit-flex-grow: 1;
         -ms-flex-positive: 1;
@@ -90,14 +90,14 @@
     -webkit-flex-shrink: 0;
         -ms-flex-negative: 0;
             flex-shrink: 0;
-    -webkit-flex-basis: 325px;
-        -ms-flex-preferred-size: 350px;
-            flex-basis: 350px;
+    -webkit-flex-basis: 360px;
+        -ms-flex-preferred-size: 360px;
+            flex-basis: 360px;
     margin-right: 50px;
     margin-left: 25px;
     flex-grow: 1;
     flex-shrink: 0;
-    flex-basis: 350px;
+    flex-basis: 360px;
 }
 
 .lightbulb-pic {
